@@ -62,11 +62,42 @@ In general, I've found that 24AWG (0.020" / 0.51mm) solder is a nice size to wor
 | Item |Image|Unit Cost|Link|Note|
 |------|-----|---------|----|----|
 | Fluke TP-88 Fine Tip Probe Covers | <img src="images/fluke_tp88.jpg" width="100"/> | $42 | [Tequipment.net](https://www.tequipment.net/fluketp88.html) | These snap on over the top of a regular diameter multimeter probe lead to convert them to a fine-tip probe. Great for probing small SMD components. Sharp tip easily pierces soldermask, conformal coat, or fingers (careful)! |
-| ANCIRS 2mm Needle Test Probes (3 pairs) | <img src="images/ancirs_tp88.jpg" width="100"/> | $12 | [Amazon.com](https://amzn.to/43RYPbq) | Generic Amazon ripoff of the Fluke TP-88 fine tip test probes. Does the job just as well. |
+| ANCIRS 2mm Needle Test Probes (3 pairs) | <img src="images/ancirs_tp88.jpg" width="100"/> | $12 | [Amazon](https://amzn.to/43RYPbq) | Generic Amazon ripoff of the Fluke TP-88 fine tip test probes. Does the job just as well. |
 | Fluke TL40 Retractable Fine-Tip Probe Leads | <img src="images/fluke_tl40.jpg" width="100"/> | $70 | [Tequipment.net](https://www.tequipment.net/FlukeTL40.html) | Fine tip test leads great for probing small SMD components. Sharp tip easily pierces soldermask, conformal coat, or fingers (careful)! |
 
 
 # Thermal Camera
 | Item |Image|Unit Cost|Link|Note|
 |------|-----|---------|----|----|
-| InfiRay P2 Pro Thermal Camera | <img src="images/infiray_p2_pro.jpg" width="100"/> | $300 | [Amazon.com Android](https://amzn.to/4azAf1O) <br> [Amazon.com iPhone](https://amzn.to/3Jeni1c) | Attaches to a smartphone and allows live viewing of temperature in the field of view. Really convenient for debugging circuit boards (broken stuff is often hot). Previously used a FLIR ONE, but the InfiRay P2 Pro has much higher resolution and doesn't have an internal battery that needs to be recharged. |
+| InfiRay P2 Pro Thermal Camera | <img src="images/infiray_p2_pro.jpg" width="100"/> | $300 | [Amazon Android](https://amzn.to/4azAf1O) <br> [Amazon iPhone](https://amzn.to/3Jeni1c) | Attaches to a smartphone and allows live viewing of temperature in the field of view. Really convenient for debugging circuit boards (broken stuff is often hot). Previously used a FLIR ONE, but the InfiRay P2 Pro has much higher resolution and doesn't have an internal battery that needs to be recharged. |
+
+# Lab Accessories
+
+## Tape Dispenser
+| Item |Image|Unit Cost|Link|Note|
+|------|-----|---------|----|----|
+| Excell EX-17/3IN Industrial Tape Dispenser | <img src="images/excell_ex-17_3in.jpg" width="100"/> | $25 | [Amazon](https://amzn.to/3VQash6) | This industrial tape dispenser accommodates standard 1" core tape rolls, and is perfect for masking tape, gaffer's tape, and Kapton (polyimide) tape. The cutting blade is very sharp, careful with your fingers! The included yellow guard is a helpful tool for reducing unwanted changes in the volume of blood currently inside your body. |
+
+## Tape Consumables
+| Item |Image|Unit Cost|Link|Note|
+|------|-----|---------|----|----|
+| 1" x 36yd Kapton (Polyimide) Tape | <img src="images/kapton_1in.jpg" width="100"/> | $17 | [Amazon](https://amzn.to/3JaYOpJ) | This tape is extremely helpful for all kinds of stuff, but is especially useful due to its ability to stick to many things without leaving residue as well as its ability to withstand high temperatures. Uniquely good at holding things down or masking off components that you don't want to heat up / blow away during hot air rework. <br> 1in is a useful width for general applications, but if you're masking off a large area or really teeny area, you may want to look into other widths that are also available. |
+| 1" Masking Tape | <img src="images/masking_tape_1in.jpg" width="100"/> | $4 | [Amazon](https://amzn.to/3vAw2f2) | Great for holding down cables or tacking things in place temporarily. Don't leave it on for too long (months and months) or it will leave a difficult-to-clean adhesive residue once removed. |
+| 1" Black Gaffers Tape | <img src="images/gaffers_tape_1in.jpg" width="100"/> | $10 | [Amazon](https://amzn.to/49vcMgz) | Use for holding down cables temporarily. Can leave in place for a long time without leaving residue (or if there is a residue, it's easily cleaned up by sticking / unstickign the tape to it or cleaning with isopropyl alchohol). |
+
+## Label Maker
+| Item |Image|Unit Cost|Link|Note|
+|------|-----|---------|----|----|
+| Dymo Rhin 4200 | <img src="images/dymo_rhino_4200.jpg" width="100"/> | $80 | [Amazon](https://amzn.to/4aqte39) | A versatile label maker with a nice QWERTY keyboard and the ability to make wire flag labels, terminal block labels, heat shrink labels, vinyl labels, and more. Extremely useful for labelling everything from PCB terminals to parts bins. Very common, so low-cost generic label cartridges are easy to find. Also available with an optional rechargeable battery. Compatible with label tapes 1/4" to 3/4" tall. |
+
+
+## Label Maker Consumables
+| Item |Image|Unit Cost|Link|Note|
+|------|-----|---------|----|----|
+| 1/2in Dymo D1 Compatible Label Tape | <img src="images/generic_dymo_d1_0.5in_vinyl_label.jpg" width="100"/> | $13 | [Amazon](https://amzn.to/3Jbz5gD) | Generic source for the most commonly used size of label tape for the Dymo Rhino 4200. |
+| 1/4in Diameter Dymo 18051 Compatible Heat Shrink Label | <img src="images/generic_dymo_18051_0.25in_heat_shrink_label.jpg" width="100"/> | $18 | [Amazon](https://amzn.to/4ar6Jew) | 1/4in heat shrink labels for labelling small diameter wires. Other heat shrink label sizes available at the link. |
+
+
+<!-- | Item |Image|Unit Cost|Link|Note|
+|------|-----|---------|----|----|
+|  | <img src="images/" width="100"/> |  | []() |  | -->
