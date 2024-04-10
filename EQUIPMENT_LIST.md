@@ -29,6 +29,11 @@ In general, I've found that 24AWG (0.020" / 0.51mm) solder is a nice size to wor
 | Chip Quik SMD291AX Sn63Pb37 No-Clean T3 Solder Paste | <img src="images/chipquik_smd291ax.jpg" width="100"/> | $15 | [Digikey](https://www.digikey.com/en/products/detail/chip-quik-inc/SMD291AX/1160002) | T3 mesh is good enough for most of what I do. This solder paste needs to be refrigerated! I recommend using a small cosmetics fridge like [this one](https://amzn.to/3VM2cie) (for the love of god don't put it in a refrigerator that also contains food). If it dries out after being in the syringe for a few months, you can rehydrate it by mixing it with a little bit of liquid flux (don't use tack flux, as it will leave goopy lumps). |
 | Chip Quik SMD4300AX Water Soluble No-Clean T4 Solder Paste | <img src="images/chipquik_smd4300ax.jpg" width="100"/> | $28 | [Digikey](https://www.digikey.com/en/products/detail/chip-quik-inc/SMD4300AX10T4/5287432) | Use this solder paste if you are planning to use a water wash process! Comes in T3, T4, T5, but I think T3 is only available in jar form. Must be refrigerated.
 
+## Inspection Microscope
+| Item |Image|Unit Cost|Link|Note|
+|------|-----|---------|----|----|
+| Articulating Gas Spring Trinocular Stereo Inspectin Microscope with Camera | <img src="images/caozhengwen_microscope.png" width="100"/> | $530 | [Aliexpress](https://www.aliexpress.us/item/2255800084597967.html) | This microscope punches way above its weight and is great for detailed PCBA inspection or SMD work. Its stereo vision gives good depth perception, it comes with a good objective lens that provides plenty of space under the microscope to work with, and the articulated arm system keeps the bench footprint minimal (compared to microscopes that take up valuable bench space with a heavy weighted base). The included USB camera isn't the best, but is good enough to use as a microscope USB webcam for taking basic inspection photos (the USB link can be a bit dodgy sometimes). |
+
 # Hand Tools
 | Item |Image|Unit Cost|Link|Note|
 |------|-----|---------|----|----|
