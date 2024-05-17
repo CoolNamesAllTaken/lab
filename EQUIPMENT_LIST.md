@@ -8,10 +8,10 @@ Here's a list of test equipment that I've used and can personally recommend!
 
 | Item |Image|Unit Cost|Link|Note|
 |------|-----|---------|----|----|
-| JBC CD-1BQF Soldering Station <br>  | <img src="images/jbc_cd-1bq_soldering_station.png" width="100"/> | $620.00 | [Tequipment.net](https://www.tequipment.net/JBC/CD-1BQF/Soldering-Stations/?v=0) | IMO: Much nicer UI than Hakko stations, more temperature flexibility than Metcal stations. One-handed tip changing is super convenient. |
-| JBC C245768 General Purpose Chisel Tip | <img src="images/jbc_c245768.png" width="100"/> | $37.00 | [Tequipment.net](https://www.tequipment.net/JBC/C245768/Tips/) | Good for most solder joints and SMD / THT work. |
-| JBC C245741 Large Chisel Tip | <img src="images/jbc_c245741.png" width="100"/> | $37.00 | [Tequipment.net](https://www.tequipment.net/JBC/C245741/Tips/) | Good for large gauge wires, big copper planes. |
-| JBC C245126 Fine Bent Tip | <img src="images/jbc_c245126.png" width="100"/> | $37.00 | [Tequipment.net](https://www.tequipment.net/JBC/C245126/Tips/) | Good for fine pitch rework. |
+| JBC CD-1BQF Soldering Station <br>  | <img src="images/jbc_cd-1bq_soldering_station.png" width="100"/> | $620 | [Tequipment.net](https://www.tequipment.net/JBC/CD-1BQF/Soldering-Stations/?v=0) | IMO: Much nicer UI than Hakko stations, more temperature flexibility than Metcal stations. One-handed tip changing is super convenient. |
+| JBC C245768 General Purpose Chisel Tip | <img src="images/jbc_c245768.png" width="100"/> | $37 | [Tequipment.net](https://www.tequipment.net/JBC/C245768/Tips/) | Good for most solder joints and SMD / THT work. |
+| JBC C245741 Large Chisel Tip | <img src="images/jbc_c245741.png" width="100"/> | $37 | [Tequipment.net](https://www.tequipment.net/JBC/C245741/Tips/) | Good for large gauge wires, big copper planes. |
+| JBC C245126 Fine Bent Tip | <img src="images/jbc_c245126.png" width="100"/> | $37 | [Tequipment.net](https://www.tequipment.net/JBC/C245126/Tips/) | Good for fine pitch rework. |
 | Hakko 611-2 Dual Solder Reel Stand | <img src="images/hakko_611-2.jpg" width="100"/> | $19 | [Amazon](https://amzn.to/4aPKSgm) | I use one reel for water wash solder, one reel for no clean solder (make sure to label which is which!). Can be grounded to your workbench's grounding system with the screw in the back. Little solder wire holders ensure that the solder itself stays in a convenient position and is also grounded (not really necessary but what the heck, we're allowed to have nice things). |
 | Quick 861DW Hot Air Station | <img src="images/quick_861dw.jpeg" width="100"/> | $270 | [Tequipment.net](https://www.tequipment.net/Quick/861DW/Desoldering-Equipment/Rework-Stations/) |
 | Hakko FA-400-04 Benchtop Smoke Absorber | <img src="images/hakko_fa-400-04.jpg" width="100"/> | $82 | [Amazon](https://amzn.to/3JaUsyT) | Can be laid on the bench face-down for higher velocity airflow close to the bench. <br><br> [Replacement Filters](https://amzn.to/4aQOv5Z) |
@@ -74,7 +74,7 @@ In general, I've found that 24AWG (0.020" / 0.51mm) solder is a nice size to wor
 # Thermal Camera
 | Item |Image|Unit Cost|Link|Note|
 |------|-----|---------|----|----|
-| InfiRay P2 Pro Thermal Camera | <img src="images/infiray_p2_pro.jpg" width="100"/> | $300 | [Amazon Android](https://amzn.to/4azAf1O) <br> [Amazon iPhone](https://amzn.to/3Jeni1c) | Attaches to a smartphone and allows live viewing of temperature in the field of view. Really convenient for debugging circuit boards (broken stuff is often hot). Previously used a FLIR ONE, but the InfiRay P2 Pro has much higher resolution and doesn't have an internal battery that needs to be recharged. |
+| InfiRay P2 Pro Thermal Camera | <img src="images/infiray_p2_pro.jpg" width="100"/> | $300 | [Amazon (Android)](https://amzn.to/4azAf1O) <br> [Amazon (iPhone)](https://amzn.to/3Jeni1c) | Attaches to a smartphone and allows live viewing of temperature in the field of view. Really convenient for debugging circuit boards (broken stuff is often hot). Previously used a FLIR ONE, but the InfiRay P2 Pro has much higher resolution and doesn't have an internal battery that needs to be recharged. |
 
 # Lab Accessories
 
@@ -93,7 +93,7 @@ In general, I've found that 24AWG (0.020" / 0.51mm) solder is a nice size to wor
 ## Label Maker
 | Item |Image|Unit Cost|Link|Note|
 |------|-----|---------|----|----|
-| Dymo Rhin 4200 | <img src="images/dymo_rhino_4200.jpg" width="100"/> | $80 | [Amazon](https://amzn.to/4aqte39) | A versatile label maker with a nice QWERTY keyboard and the ability to make wire flag labels, terminal block labels, heat shrink labels, vinyl labels, and more. Extremely useful for labelling everything from PCB terminals to parts bins. Very common, so low-cost generic label cartridges are easy to find. Also available with an optional rechargeable battery. Compatible with label tapes 1/4" to 3/4" tall. |
+| Dymo Rhino 4200 | <img src="images/dymo_rhino_4200.jpg" width="100"/> | $80 | [Amazon](https://amzn.to/4aqte39) | A versatile label maker with a nice QWERTY keyboard and the ability to make wire flag labels, terminal block labels, heat shrink labels, vinyl labels, and more. Extremely useful for labelling everything from PCB terminals to parts bins. Very common, so low-cost generic label cartridges are easy to find. Also available with an optional rechargeable battery. Compatible with label tapes 1/4" to 3/4" tall. |
 
 
 ## Label Maker Consumables
